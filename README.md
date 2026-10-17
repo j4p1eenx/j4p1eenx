@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Japleen
+# Hi, I'm Japleen
 
 🚀 Automation & Robotics Undergraduate | ROS2 + AI
 🎯 Building intelligent robotic systems that **perceive, plan, and act in real-world environments**
